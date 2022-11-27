@@ -101,7 +101,7 @@ data "google_iam_policy" "pub-1" {
 
 ```
 
-# Run Terraform list_commands
+# Run Terraform commands
 
 ```
 terraform init
